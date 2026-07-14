@@ -7,11 +7,13 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
