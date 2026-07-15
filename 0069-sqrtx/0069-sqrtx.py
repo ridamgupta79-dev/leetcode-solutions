@@ -1,6 +1,9 @@
 class Solution(object):
     def mySqrt(self, x):
 
+        if x < 2 :
+            return x
+
         l = 1
         r = x
         ans = 0
