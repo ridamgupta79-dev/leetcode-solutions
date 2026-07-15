@@ -8,6 +8,7 @@ My Leetcode Solutions
 | ------- |
 | [0009-palindrome-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
@@ -35,4 +36,8 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
