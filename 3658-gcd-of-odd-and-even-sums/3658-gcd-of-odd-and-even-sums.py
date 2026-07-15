@@ -11,13 +11,13 @@ class Solution(object):
         for i in range (2, n*2 + 1, 2) :
             even_sum += i
 
-        while even_sum > 0 :
-            gcd = odd_sum % even_sum
-            odd_sum = even_sum
-            even_sum = gcd
+        while even_sum != 0:
+            odd_sum, even_sum = even_sum, odd_sum % even_sum
+
+        return odd_sum
 
        
-        return odd_sum
+        
 
         
         
