@@ -7,6 +7,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -22,6 +23,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0013-roman-to-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,4 +57,8 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
