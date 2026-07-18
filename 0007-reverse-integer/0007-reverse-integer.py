@@ -10,7 +10,7 @@ class Solution(object):
                 result = (result * 10) + ld
                 n = n // 10
 
-            if -2**31 < result < 2**31 - 1 :
+            if result < 2**31 - 1 :
 
                 if num > 0 :
                     return result
