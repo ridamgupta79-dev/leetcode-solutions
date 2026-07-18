@@ -3,11 +3,6 @@ def f(a, b) :
         a, b = b, a%b
     return a
 
-
-
-
-
-
 class Solution(object):
     def findGCD(self, nums):
         nums.sort()
