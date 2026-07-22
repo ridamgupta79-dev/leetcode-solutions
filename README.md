@@ -19,6 +19,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -54,6 +55,7 @@ My Leetcode Solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -72,4 +74,8 @@ My Leetcode Solutions
 | ------- |
 | [0013-roman-to-integer](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0344-reverse-string) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
