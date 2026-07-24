@@ -28,6 +28,7 @@ My Leetcode Solutions
 | [0075-sort-colors](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0611-valid-triangle-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -59,6 +60,7 @@ My Leetcode Solutions
 | ------- |
 | [0069-sqrtx](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0611-valid-triangle-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +73,7 @@ My Leetcode Solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0611-valid-triangle-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -79,6 +82,7 @@ My Leetcode Solutions
 | [0015-3sum](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0611-valid-triangle-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -94,4 +98,5 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0611-valid-triangle-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
