@@ -21,6 +21,7 @@ My Leetcode Solutions
 | [0001-two-sum](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0066-plus-one) |
@@ -63,6 +64,7 @@ My Leetcode Solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -75,6 +77,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
