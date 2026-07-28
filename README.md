@@ -91,6 +91,7 @@ My Leetcode Solutions
 | [0344-reverse-string](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -149,4 +150,8 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
