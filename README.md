@@ -52,6 +52,7 @@ My Leetcode Solutions
 | [0013-roman-to-integer](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0169-majority-element) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,6 +110,7 @@ My Leetcode Solutions
 | [0628-maximum-product-of-three-numbers](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -125,6 +127,7 @@ My Leetcode Solutions
 | [0344-reverse-string](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
@@ -133,6 +136,7 @@ My Leetcode Solutions
 | [0611-valid-triangle-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -147,6 +151,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0169-majority-element) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
