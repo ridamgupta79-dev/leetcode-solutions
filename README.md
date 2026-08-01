@@ -35,6 +35,7 @@ My Leetcode Solutions
 | [0128-longest-consecutive-sequence](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -140,6 +141,7 @@ My Leetcode Solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
