@@ -28,6 +28,7 @@ My Leetcode Solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -122,6 +123,7 @@ My Leetcode Solutions
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -176,4 +178,8 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
