@@ -54,6 +54,7 @@ My Leetcode Solutions
 | [1480-running-sum-of-1d-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3731-find-missing-elements](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -172,6 +173,7 @@ My Leetcode Solutions
 | [0560-subarray-sum-equals-k](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 ## Divide and Conquer
 |  |
 | ------- |
