@@ -28,6 +28,7 @@ My Leetcode Solutions
 | [0018-4sum](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0066-plus-one) |
@@ -66,6 +67,7 @@ My Leetcode Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -98,6 +100,7 @@ My Leetcode Solutions
 | [0018-4sum](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -196,4 +199,12 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
