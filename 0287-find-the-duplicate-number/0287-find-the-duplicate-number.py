@@ -1,11 +1,23 @@
 class Solution(object):
     def findDuplicate(self, nums):
 
-        n = len(nums)
-        hash = set()
+        i = 0
+        j = 0
 
-        for i in range (0, n) :
-            if nums[i] in hash :
-                return nums[i]
-            else :
-                hash.add(nums[i])
+        while True :
+            i = nums[i]
+            j = nums[nums[j]]
+            
+            if i == j :
+                break
+            
+        i = 0
+
+        while True :
+            i = nums[i]
+            j = nums[j]
+
+            if i==j :
+                return i
+
+        return i
