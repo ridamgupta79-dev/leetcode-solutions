@@ -42,6 +42,7 @@ My Leetcode Solutions
 | [0238-product-of-array-except-self](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0525-contiguous-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0611-valid-triangle-number) |
@@ -157,6 +158,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0611-valid-triangle-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -224,4 +226,8 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
