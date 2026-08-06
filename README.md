@@ -49,6 +49,7 @@ My Leetcode Solutions
 | [0611-valid-triangle-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0845-longest-mountain-in-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -76,6 +77,7 @@ My Leetcode Solutions
 | [0053-maximum-subarray](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0845-longest-mountain-in-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
 ## Recursion
 |  |
 | ------- |
@@ -117,6 +119,7 @@ My Leetcode Solutions
 | [0344-reverse-string](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0845-longest-mountain-in-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -236,5 +239,6 @@ My Leetcode Solutions
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
