@@ -9,18 +9,32 @@ class Solution:
 
         tempa = headA
         tempb = headB
-        mset = set()
-
+        counta = 0
+        countb = 0
+        
         while tempa :
-            mset.add(tempa)
+            counta += 1
             tempa = tempa.next
 
         while tempb :
-            if tempb in mset :
-                return tempb
-            else :
+            countb += 1
+            tempb = tempb.next
+
+        tempa, tempb = headA, headB 
+
+        if counta > countb :
+            for _ in range(counta-countb) :
+                tempa = tempa.next
+        elif counta < countb :
+            for _ in range (countb - counta) :
                 tempb = tempb.next
 
-        return None
+        while tempa != tempb :
+            tempa = tempa.next
+            tempb = tempb.next
+
+        return tempa
+
+
 
         
