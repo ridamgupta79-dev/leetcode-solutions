@@ -231,6 +231,7 @@ My Leetcode Solutions
 | [0206-reverse-linked-list](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0707-design-linked-list](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Union-Find
@@ -282,4 +283,12 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0707-design-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
