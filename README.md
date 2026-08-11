@@ -58,6 +58,7 @@ My Leetcode Solutions
 | [1929-concatenation-of-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -72,6 +73,7 @@ My Leetcode Solutions
 | [0169-majority-element](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0169-majority-element) |
 | [0525-contiguous-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -154,6 +156,7 @@ My Leetcode Solutions
 | [0881-boats-to-save-people](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
