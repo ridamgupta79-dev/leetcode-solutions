@@ -58,6 +58,7 @@ My Leetcode Solutions
 | [1929-concatenation-of-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -74,6 +75,7 @@ My Leetcode Solutions
 | [0169-majority-element](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0169-majority-element) |
 | [0525-contiguous-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -297,4 +299,5 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
