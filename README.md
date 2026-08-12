@@ -74,6 +74,7 @@ My Leetcode Solutions
 | [0142-linked-list-cycle-ii](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0169-majority-element) |
+| [0424-longest-repeating-character-replacement](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -180,6 +181,7 @@ My Leetcode Solutions
 | [0013-roman-to-integer](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -303,5 +305,6 @@ My Leetcode Solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
