@@ -53,6 +53,7 @@ My Leetcode Solutions
 | [0724-find-pivot-index](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0845-longest-mountain-in-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -77,6 +78,7 @@ My Leetcode Solutions
 | [0424-longest-repeating-character-replacement](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -306,5 +308,6 @@ My Leetcode Solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
