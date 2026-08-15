@@ -1,14 +1,9 @@
 class Solution:
     def countBits(self, n: int) -> List[int]:
 
-        result = []
-        result.append(0)
+        result = [0] * (n+1)
 
-        for num in range (1, n+1) :
-            count = 0
-            while num :
-                num = num & (num-1)
-                count += 1
-            result.append(count)
+        for i in range (1, n+1) :
+            result[i] = result[i & (i-1)] + 1
 
         return result
