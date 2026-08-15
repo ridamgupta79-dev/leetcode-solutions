@@ -36,6 +36,7 @@ My Leetcode Solutions
 | [0054-spiral-matrix](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -284,6 +285,7 @@ My Leetcode Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
@@ -335,4 +337,8 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
