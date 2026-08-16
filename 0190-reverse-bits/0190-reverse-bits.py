@@ -3,8 +3,10 @@ class Solution:
 
         result = 0
 
-        for i in range (0, 32) :
-            bit = (n>>i) & 1
-            result = result | (bit<<(31-i))
+        for _ in range (0, 32) :
+
+            bit = n & 1
+            result = (result<<1) | bit
+            n = n>>1
 
         return result
