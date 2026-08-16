@@ -14,6 +14,7 @@ My Leetcode Solutions
 | [0069-sqrtx](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -303,6 +304,7 @@ My Leetcode Solutions
 | [0268-missing-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Pigeonhole Principle
 |  |
 | ------- |
