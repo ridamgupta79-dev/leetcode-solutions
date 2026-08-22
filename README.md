@@ -105,6 +105,7 @@ My Leetcode Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -208,6 +209,7 @@ My Leetcode Solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -368,5 +370,10 @@ My Leetcode Solutions
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0078-subsets) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
