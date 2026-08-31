@@ -288,6 +288,7 @@ My Leetcode Solutions
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0707-design-linked-list](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Union-Find
 |  |
 | ------- |
