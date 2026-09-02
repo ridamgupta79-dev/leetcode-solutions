@@ -25,6 +25,7 @@ My Leetcode Solutions
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
@@ -84,6 +85,7 @@ My Leetcode Solutions
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
