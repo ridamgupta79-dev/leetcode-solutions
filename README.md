@@ -41,6 +41,7 @@ My Leetcode Solutions
 | [0039-combination-sum](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0054-spiral-matrix) |
@@ -385,6 +386,7 @@ My Leetcode Solutions
 | [0022-generate-parentheses](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0078-subsets) |
