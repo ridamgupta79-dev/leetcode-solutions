@@ -16,6 +16,7 @@ My Leetcode Solutions
 | [0231-power-of-two](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -215,6 +216,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -227,6 +229,7 @@ My Leetcode Solutions
 | [0076-minimum-window-substring](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
