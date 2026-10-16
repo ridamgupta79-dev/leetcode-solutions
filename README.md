@@ -328,6 +328,7 @@ My Leetcode Solutions
 | [0020-valid-parentheses](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -373,6 +374,7 @@ My Leetcode Solutions
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0707-design-linked-list) |
 ## Depth-First Search
 |  |
