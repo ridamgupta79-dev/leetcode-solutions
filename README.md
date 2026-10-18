@@ -70,6 +70,7 @@ My Leetcode Solutions
 | [0287-find-the-duplicate-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0503-next-greater-element-ii](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0611-valid-triangle-number) |
@@ -330,12 +331,14 @@ My Leetcode Solutions
 | [0143-reorder-list](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
