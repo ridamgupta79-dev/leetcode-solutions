@@ -75,6 +75,7 @@ My Leetcode Solutions
 | [0560-subarray-sum-equals-k](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0845-longest-mountain-in-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
@@ -227,6 +228,7 @@ My Leetcode Solutions
 | ------- |
 | [0054-spiral-matrix](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -337,6 +339,7 @@ My Leetcode Solutions
 | [0155-min-stack](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
