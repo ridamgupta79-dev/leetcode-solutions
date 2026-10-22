@@ -240,6 +240,7 @@ My Leetcode Solutions
 | [0013-roman-to-integer](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0071-simplify-path](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -336,6 +337,7 @@ My Leetcode Solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
