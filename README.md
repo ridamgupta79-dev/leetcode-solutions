@@ -79,6 +79,7 @@ My Leetcode Solutions
 | [0682-baseball-game](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0845-longest-mountain-in-array](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -350,6 +351,7 @@ My Leetcode Solutions
 | [0503-next-greater-element-ii](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -359,6 +361,7 @@ My Leetcode Solutions
 | [0042-trapping-rain-water](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ridamgupta79-dev/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Bit Manipulation
 |  |
 | ------- |
